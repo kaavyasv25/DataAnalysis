@@ -39,8 +39,8 @@ This repository comprises a collection of data analysis projects, each focusing 
 - Jupyter Notebooks with detailed analysis.
 - Visualizations highlighting sales trends and customer demographics.
 
-![Alt text](DataAnalysis/Superstore/salesDashboard.png)
-![Alt text](DataAnalysis/Superstore/insightsDashboard.png)
+![Alt text](Superstore/salesDashboard.png)
+![Alt text](Superstore/insightsDashboard.png)
 
 ## Getting Started
 
